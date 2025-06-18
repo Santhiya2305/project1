@@ -7,7 +7,6 @@ Original file is located at
     https://colab.research.google.com/drive/1UPwhI3VWazN5eMuGm9kxJ08piDtVDP_V
 """
 
-pip install streamlit
 import streamlit as st
 import pandas as pd
 from sklearn.linear_model import LinearRegression
